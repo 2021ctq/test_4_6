@@ -1,0 +1,56 @@
+{
+  "uid" : "5c2f0970e2bc9057",
+  "name" : "test_3",
+  "fullName" : "testcases.test_webscript_4_2_002.TestCases2#test_3",
+  "historyId" : "38e69427b142c2250ebb3577ffad75a9",
+  "time" : {
+    "start" : 1664330718221,
+    "stop" : 1664330718221,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_webscript_4_2_002"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCases2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-EO7SAOP"
+  }, {
+    "name" : "thread",
+    "value" : "23800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_webscript_4_2_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c2f0970e2bc9057.json",
+  "parameterValues" : [ ]
+}
